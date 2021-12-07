@@ -41,6 +41,6 @@ contactme:<a href=""mailto:urreal@naver.com">urreal@naver.com</a>으로 연락�
   </div>
 
 
-  <h3>⌨️ Blog</h3>
-<a href="https://velog.io/@yoojinpark"><img src="https://img.shields.io/badge/velog-68BC71?style=flat-square&logo=Bloglovin&logoColor=white"/> https://velog.io/@yoojinpark</a>
-
+  <h3>Connect with me</h3>
+<a href="https://velog.io/@yoojinpark"><img src="https://img.shields.io/badge/velog-68BC71?style=flat-square&logo=Bloglovin&logoColor=white"/> https://velog.io/@yoojinpark</a><br>
+<a href=""mailto:urreal@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> urreal@naver.com</a>
