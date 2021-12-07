@@ -15,6 +15,9 @@
   </p><br>
 저는 현재 멋쟁이 사자처럼 프론트 엔드 스쿨에서 학업하고 있습니다.<br>
 contactme:<a href=""mailto:urreal@naver.com">urreal@naver.com</a>으로 연락주세요!
+  
+  <p> I'm studying in Likelion school major in Frontend school.<br>
+  please feel free to send me a mail.if you have any concer</p>
 
  <br>
  <br>
