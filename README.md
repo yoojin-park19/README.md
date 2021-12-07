@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Frontend%20Developer&fontSize=60)
 
 
-<h3> 👯 사람과 컴퓨터와 이야기하는 박유진입니다.<h3>
-<h4> Park yoojin who communicate with computer & people<h4>
+<h3> 👯 사람과 컴퓨터 사이를 전달하는 박유진입니다.<h3>
+<h4> Park yoojin who Communicating between people and computers.<h4>
   
 
 >사자처럼 프론트 엔드 스쿨 1기 🦁 <br>
