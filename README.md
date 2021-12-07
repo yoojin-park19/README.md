@@ -3,7 +3,6 @@
 
 <h3> 👯 사람과 컴퓨터 사이를 전달하는 박유진입니다.<h3>
 <h4> Park yoojin who Communicating between people and computers.<h4>
-  
 
 >사자처럼 프론트 엔드 스쿨 1기 🦁 <br>
 >
@@ -12,12 +11,12 @@
 >서강대학교 커뮤니케이션 학과, 사학과 졸업 🕊<br>
 >  
 >교육업계 6년 근무 📚<br>
-  </p><br>
+<br>
 저는 현재 멋쟁이 사자처럼 프론트 엔드 스쿨에서 학업하고 있습니다.<br>
 contactme:<a href=""mailto:urreal@naver.com">urreal@naver.com</a>으로 연락주세요!
   
-  <p> I'm studying in Likelion school major in Frontend school.<br>
-  please feel free to send me a mail.if you have any concer</p>
+<p><br> I'm studying in Likelion school major in Frontend school.<br>
+please feel free to send me a mail.if you have any concer</p>
 
  <br>
  <br>
