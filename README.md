@@ -4,7 +4,7 @@
 <h3> 👯 사람과 컴퓨터 사이를 전달하는 박유진입니다.<h3>
 <h4> Park yoojin who Communicating between people and computers.<h4>
 
->사자처럼 프론트 엔드 스쿨 1기 🦁 <br>
+>멋쟁이 사자처럼 프론트 엔드 스쿨 1기 🦁 <br>
 >
 >웹사이트 클론 및 제작 프로젝트 경험 💻 <br>
 >
